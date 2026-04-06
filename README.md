@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:2ea043&height=200&section=header&text=Ithallo%20Costa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20em%20forma%C3%A7%C3%A3o%20%7C%20Santana%20-%20AP&descSize=18&descAlignY=55&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:1a4a7a&height=200&section=header&text=Ithallo%20Costa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20em%20forma%C3%A7%C3%A3o%20%7C%20Santana%20-%20AP&descSize=18&descAlignY=55&descColor=c9d1d9"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Sistemas+para+Internet+%7C+Centro+Universit%C3%A1rio+META;Fullstack+Developer+%E2%80%A2+React+%2B+Node.js+%2B+TypeScript;Apaixonado+por+criar+solu%C3%A7%C3%B5es+web+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -89,6 +89,6 @@ Sistema completo com autenticação JWT, chat em tempo real, notificações push
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:2ea043&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:1a4a7a&height=120&section=footer"/>
 
 </div>
