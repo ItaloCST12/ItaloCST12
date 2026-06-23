@@ -1,8 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:1a4a7a&height=200&section=header&text=Ithallo%20Costa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20em%20forma%C3%A7%C3%A3o%20%7C%20Santana%20-%20AP&descSize=18&descAlignY=55&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:1a4a7a&height=200&section=header&text=Ithallo%20Costa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20%7C%20Santana%20-%20AP&descSize=18&descAlignY=55&descColor=c9d1d9"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Sistemas+para+Internet+%7C+Centro+Universit%C3%A1rio+META;Fullstack+Developer+%E2%80%A2+React+%2B+Node.js+%2B+TypeScript;Apaixonado+por+criar+solu%C3%A7%C3%B5es+web+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ItaloCST12&style=flat-square&color=2ea043&label=Visitas+no+perfil)
+[![GitHub followers](https://img.shields.io/github/followers/ItaloCST12?style=flat-square&color=2ea043&labelColor=0d1117&logo=github&label=Seguidores)](https://github.com/ItaloCST12?tab=followers)
 
 </div>
 
@@ -13,7 +18,7 @@
 ```typescript
 const ithallo = {
   localização: "Santana - AP, Brasil 🇧🇷",
-  formação: "Sistemas para Internet — Centro Universitário META",
+  formação: "Graduado em Sistemas para Internet — Centro Universitário META",
   foco: "Desenvolvimento Fullstack",
   aprendendo: ["Docker", "CI/CD", "Cloud Services"],
   curiosidade: "Acredito que código bom é código que resolve problemas reais.",
@@ -70,6 +75,18 @@ const ithallo = {
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ItaloCST12&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ItaloCST12&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloCST12&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area_color=0a2540&area=true&hide_border=true"/>
 </div>
 
 ---
