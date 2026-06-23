@@ -74,7 +74,7 @@ const ithallo = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ItaloCST12&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=ItaloCST12&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 </div>
 
 <div align="center">
